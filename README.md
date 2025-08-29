@@ -19,5 +19,6 @@ This site has been designed to :
 ## 🛠 Tech Stack
 
 ## 🔗 Assets
-
+- 3D astronaut model made by [wallmasterr](https://sketchfab.com/3d-models/tenhun-falling-spaceman-fanart-9fd80b6a259f41fd99e6f56eee686dc5)
+- Animated globe and Orbiting circles come from [Magic UI](https://magicui.design/docs/components/globe)
 ## 📬 Contact Me
