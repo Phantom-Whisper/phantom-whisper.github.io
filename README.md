@@ -22,3 +22,4 @@ This site has been designed to :
 - 3D astronaut model made by [wallmasterr](https://sketchfab.com/3d-models/tenhun-falling-spaceman-fanart-9fd80b6a259f41fd99e6f56eee686dc5)
 - Animated globe and Orbiting circles come from [Magic UI](https://magicui.design/docs/components/globe)
 ## 📬 Contact Me
+[![Gmail Badge](https://img.shields.io/badge/-gabrielcoudel35@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielcoudel35@gmail.com)](mailto:gabrielcoudel35@gmail.com)
