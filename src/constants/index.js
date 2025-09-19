@@ -77,10 +77,13 @@ export const myProjects = [
         id: 4,
         title: "Regie Master",
         description:
-            "",
+            "Development of a mobile application enabling stage lighting technicians to control a DMX console directly from their smartphone, improving efficiency and reducing logistical costs.",
         subDescription: [
-            "",
+            "The project addresses the technical challenges of event production, where the setup of lighting equipment using the DMX protocol is time-consuming and often requires additional staff. The mobile app replaces repetitive stage-to-console checks with real-time remote control.",
+            "Features include the ability to test projectors immediately after installation, verify proper DMX channel responses, and trigger programmed lighting scenes remotely. This eliminates unnecessary travel between stage and control desk while ensuring fluid preparation.",
+            "The solution increases autonomy for lighting technicians, reduces manpower costs for organizers, and enhances reliability under tight deadlines (e.g., festivals with multiple artists). It also opens the door to future innovations such as preset configurations, multi-DMX universe management, and smartwatch compatibility.",
         ],
+
         href: "",
         logo: "",
         image: "",
